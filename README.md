@@ -1,11 +1,12 @@
 # Personal-Finance-Data-Analysis-and-Visualization
 This project focuses on analyzing and visualizing personal finance data using Python. It includes data preprocessing, exploratory data analysis (EDA), and visualizations such as univariate, bivariate, and multivariate plots to gain insights into financial behavior, spending habits, loan defaults, savings, and investment opportunities.
 
-## Objectives
-- Identify customers who are most likely to **default on loans**.  
+## Business Objectives
+- Identify customers who are most likely to **default on loans**.
 - Analyze which types of loans are most popular among different **age groups, job types, and regions**.  
 - Suggest better **savings and investment plans** for customers.  
-- Predict whether a customer will **repay or fail** to repay a loan.  
+- Predict whether a customer will **repay or fail** to repay a loan.
+- customers with low savings or poor credit, and how can we support them
 
 ## Technologies Used
 - **Python**  
